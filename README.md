@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @sama80
-- 👀 I’m interested in Data Analysis ,  AI , web development And UI-UX
-- 🌱 I’m currently learning Information Systems at PSAU.
-- 💞️ I’m looking to improve my skills, have more experience and collaborate on a projects.
-- 📫 How to reach me E-mail: sama8n@gmail.com 
-- PhoneNumber: 0545438263
+Hi there! 👋
+
+🎓 MSc Data Science and Computational Intelligence student.
+
+📊 Interested in Data Analytics, Machine Learning, Artificial Intelligence, and Business Intelligence.
+
+💻 Working with Python, SQL, and data-driven projects.
+
+🌱 Currently exploring Power BI and practical applications of Data Science.
+
+🔗 Check out my repositories to explore my projects.
 
 <!---
 sama80/sama80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
